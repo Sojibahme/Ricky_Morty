@@ -35,6 +35,7 @@ A demo of the Rick and Morty App is available for viewing. You can access the de
 Project Structure
 The project follows a structured organization to maintain code cleanliness and readability:
 
+   ```bash
 ├───data
 │   ├───graphql
 │   ├───models
